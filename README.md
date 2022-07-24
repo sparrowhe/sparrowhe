@@ -1,6 +1,6 @@
 # Hello 👋，I am Sparrow He
 
-- 🔭 I’m currently working on [Clipteam](https://github.com/Clipteam)'s [Clip Community (Close Beta)](https://codingclip.com)
+- 🔭 I’m currently working on [Clipteam](https://github.com/Clipteam)'s [Clip Community (Beta)](https://codingclip.com)
 - 🌱 I’m currently learning `Golang`, It's really interesting
 - ⚡ Fun fact: Gaming
 
