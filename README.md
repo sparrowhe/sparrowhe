@@ -2,8 +2,6 @@
 
 
 - Senior high school student
-- 🔭 I’m currently working on [Clipteam](https://github.com/Clipteam)'s [Clip Community (Beta)](https://codingclip.com)
-- 🌱 I’m currently learning `Golang`, It's really interesting
 - ⚡ Fun fact: Gaming
 
 ## 📈 My GitHub Stats
