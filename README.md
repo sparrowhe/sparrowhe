@@ -7,11 +7,12 @@
 ## Tech Stack
 
 - Frontend: Vue, React, jQuery, mdui
-- Backend: Nodejs, Go
+- Backend: Nodejs, Go, PHP
 - Embedded: C++
-- Machine Learning / HPC: Python, slurm
+- Machine Learning / Algorithm: Python
 - DevOps: Docker, Grafana, Prometheus, Loki, etc.
 - Collaboration: Git, Jira
+- CTF: misc, pwn, web
 
 ## 📈 My GitHub Stats
 
