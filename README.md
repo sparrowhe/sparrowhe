@@ -16,9 +16,6 @@ _Statement dated: June 12, 2025_
 
 # Hello 👋，I am Sparrow He
 
-- Senior high school student
-- ⚡ Fun fact: Gaming
-
 ## Tech Stack
 
 - Frontend: Vue, React, jQuery, mdui
