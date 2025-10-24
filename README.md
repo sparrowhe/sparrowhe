@@ -1,4 +1,4 @@
-# !NOTICE!
+<!-- # !NOTICE!
 
 ## 🛑 TL;DR – PGP Key Deprecation Notice
 
@@ -13,7 +13,7 @@
 _Statement dated: June 12, 2025_
 
 [Full Text](https://gist.github.com/sparrowhe/d769d1bcee41074f4d3c8dcbc6dbc2dd)
-
+-->
 # Hello 👋，I am Sparrow He
 
 ## Tech Stack
