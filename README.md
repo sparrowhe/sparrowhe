@@ -24,7 +24,7 @@ _Statement dated: June 12, 2025_
 - Machine Learning / Algorithm: Python
 - DevOps: Docker, Grafana, Prometheus, Loki, etc.
 - Collaboration: Git, Jira
-- CTF: misc, pwn, web
+- CTF: misc, web
 
 ## 📈 My GitHub Stats
 
